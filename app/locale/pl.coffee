@@ -320,7 +320,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
 
   common:
     back: "Wstecz" # When used as an action verb, like "Navigate backward"
-#    go_back: "Go Back"
+    go_back: "Wróć"
     coming_soon: "Dostępne wkrótce!"
     continue: "Dalej" # When used as an action verb, like "Continue forward"
     next: "Następny"
@@ -328,7 +328,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     loading: "Ładowanie..."
     overview: "Przegląd"
     solution: "Rozwiązanie"
-#    table_of_contents: "Table of Contents"
+    table_of_contents: "Spis treści" # It's the closest meaning of the English original in Polish language
     intro: "Wprowadzenie"
     saving: "Zapisywanie..."
     sending: "Wysyłanie..."
@@ -427,7 +427,7 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     years: "lat"
 
   play_level:
-#    back_to_map: "Back to Map"
+    back_to_map: "Wróć do mapy"
     directions: "Kierunki"
     edit_level: "Edytuj poziom"
     explore_codecombat: "Przeglądaj CodeCombat"
@@ -569,9 +569,9 @@ module.exports = nativeDescription: "polski", englishDescription: "Polish", tran
     tip_good_idea: "Najlepszym sposobem na dobry pomysł jest wiele pomysłów. - Linus Pauling"
     tip_programming_not_about_computers: "Informatyka ma tyle samo wspólnego z komputerami, co astronomia ma z teleskopami. - Edsger Dijkstra"
     tip_mulan: "Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać. - Mulan"
-#    project_complete: "Project Complete!"
-#    share_this_project: "Share this project with friends or family:"
-#    ready_to_share: "Ready to publish your project?"
+    project_complete: "Projekt ukończony!"
+    share_this_project: "Podziel się swoim projektem ze znajomymi lub rodziną:"
+    ready_to_share: "Gotowy, by opublikować swój projekt?"
 #    click_publish: "Click \"Publish\" to make it appear in the class gallery, then check out what your classmates built! You can come back and continue to work on this project. Any further changes will automatically be saved and shared with your classmates."
 #    already_published_prefix: "Your changes have been published to the class gallery."
 #    already_published_suffix: "Keep experimenting and making this project even better, or see what the rest of your class has built! Your changes will automatically be saved and shared with your classmates."
